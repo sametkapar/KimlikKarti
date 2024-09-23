@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Kimlik\\",
+  "WorkspaceRootPath": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|c:\\users\\user\\source\\repos\\kimlik\\kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|c:\\users\\skapar\\desktop\\kimlikkarti-main\\kimlikkarti-main\\kimlik\\kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|solutionrelative:kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KimlikTablo.html",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
+              "DocumentMoniker": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
               "RelativeDocumentMoniker": "Kimlik\\Kimlik\\KimlikTablo.html",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
+              "ToolTip": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
               "RelativeToolTip": "Kimlik\\Kimlik\\KimlikTablo.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-22T11:44:40.697Z",
               "EditorCaption": ""
