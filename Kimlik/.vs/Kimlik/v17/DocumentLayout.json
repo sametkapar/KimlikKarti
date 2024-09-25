@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\",
+  "WorkspaceRootPath": "C:\\Users\\Skapar\\Documents\\GitHub\\KimlikKarti\\Kimlik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|c:\\users\\skapar\\desktop\\kimlikkarti-main\\kimlikkarti-main\\kimlik\\kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|c:\\users\\skapar\\documents\\github\\kimlikkarti\\kimlik\\kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52B348C8-E227-41D4-8142-14672F42EE88}|Kimlik\\Kimlik.csproj|solutionrelative:kimlik\\kimlik\\kimliktablo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KimlikTablo.html",
-              "DocumentMoniker": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
+              "DocumentMoniker": "C:\\Users\\Skapar\\Documents\\GitHub\\KimlikKarti\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
               "RelativeDocumentMoniker": "Kimlik\\Kimlik\\KimlikTablo.html",
-              "ToolTip": "C:\\Users\\Skapar\\Desktop\\KimlikKarti-main\\KimlikKarti-main\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
+              "ToolTip": "C:\\Users\\Skapar\\Documents\\GitHub\\KimlikKarti\\Kimlik\\Kimlik\\Kimlik\\KimlikTablo.html",
               "RelativeToolTip": "Kimlik\\Kimlik\\KimlikTablo.html",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAANAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-22T11:44:40.697Z",
+              "WhenOpened": "2024-09-25T06:29:14.515Z",
               "EditorCaption": ""
             }
           ]
